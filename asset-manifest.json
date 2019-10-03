@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactFriends/static/css/main.1913cb29.chunk.css",
+    "main.js": "/ReactFriends/static/js/main.9a1a04c0.chunk.js",
+    "main.js.map": "/ReactFriends/static/js/main.9a1a04c0.chunk.js.map",
+    "runtime-main.js": "/ReactFriends/static/js/runtime-main.e6f87405.js",
+    "runtime-main.js.map": "/ReactFriends/static/js/runtime-main.e6f87405.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/ReactFriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.925afbdf.chunk.js": "/ReactFriends/static/js/2.925afbdf.chunk.js",
+    "static/js/2.925afbdf.chunk.js.map": "/ReactFriends/static/js/2.925afbdf.chunk.js.map",
+    "index.html": "/ReactFriends/index.html",
+    "precache-manifest.d2c669a29a8b1c94f3e957637bed0cc8.js": "/ReactFriends/precache-manifest.d2c669a29a8b1c94f3e957637bed0cc8.js",
+    "service-worker.js": "/ReactFriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/ReactFriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.1913cb29.chunk.css.map": "/ReactFriends/static/css/main.1913cb29.chunk.css.map",
+    "static/media/App.css": "/ReactFriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6f87405.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.925afbdf.chunk.js",
+    "static/css/main.1913cb29.chunk.css",
+    "static/js/main.9a1a04c0.chunk.js"
+  ]
+}
